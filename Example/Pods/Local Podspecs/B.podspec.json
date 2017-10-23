@@ -1,0 +1,22 @@
+{
+  "name": "B",
+  "version": "0.1.0",
+  "summary": "A short description of B.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ahad375/B",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ahad375": "aalarifi64@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ahad375/B.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "B/Classes/**/*"
+}
