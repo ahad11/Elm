@@ -6,17 +6,17 @@ Pod::Spec.new do |s|
   s.summary          = 'this is a summary for b'
 
 
-s.description      = 'jjjjfjgvjgb.jhn/kljmLkm/ljhjugfthrsdeasdrftyuiop[poiuytrewertyuiop[]\';lokiuytrdsasdfghjkl;';lkjhgfdsdfvgbhnm,./]'
+s.description      = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 
-  s.homepage         = 'https://github.com/ahad375/B'
+  s.homepage         = "https://github.com/ahad375/B"
 
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ahad375' => 'aalarifi64@gmail.com' }
-  s.source           = { :git => 'https://github.com/ahad375/B.git', :tag => s.version.to_s }
+  s.license          = { :type => "MIT", :file => "LICENSE" }
+  s.author           = { "ahad375" => "aalarifi64@gmail.com" }
+  s.source           = { :git => "https://github.com/ahad375/B.git", :tag => s.version.to_s }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = "8.0"
 
-  s.source_files = 'B/Classes/**/*'
+  s.source_files = "B/Classes/**/*"
   
 
 end
