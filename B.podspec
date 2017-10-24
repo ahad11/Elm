@@ -16,7 +16,7 @@ s.description      = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 
   s.ios.deployment_target = "8.0"
 
-  s.source_files = "B/*.{h,m}"
+  s.source_files = 'B/*.{h,m}'
 
   
 
