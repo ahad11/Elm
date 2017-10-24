@@ -12,7 +12,7 @@ s.description      = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 
   s.license          = { :type => "MIT", :file => "LICENSE" }
   s.author           = { "ahad375" => "aalarifi64@gmail.com" }
-  s.source           = { :git => "https://github.com/ahad375/B.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/ahad11/Elm.git", :tag => s.version.to_s }
 
   s.ios.deployment_target = "8.0"
 
